@@ -1,0 +1,4 @@
+Author: V1nc3n7JM3y3r - OIV
+HDSD:
+Upload code lên hosting và unzip
+Lập một nick mới sau dó set quyền Admin bằng cách thay đổi dòng $config['admin'] = array('Admin','Password'); trong file /inc/config.php, thay Admin bằng tài khoản muốn set và Password thành mật khẩu của tài khoản đó. Done !
